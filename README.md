@@ -1,4 +1,3 @@
-# css-main.css
 body {
     margin: 60px auto;
     width: 70%;
